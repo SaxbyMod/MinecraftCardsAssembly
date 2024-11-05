@@ -1,1 +1,404 @@
-Crown, 1X "Chicken" Card + 2X "Button" Card's, This is a test card and costs 1x Chicken and[NEW]2x Button's to play as seen below this[NEW]description.
+Name,Cost,Description
+Allay,,An allay is a flying passive mob that collects and delivers items for any player that gives it something or any note block it hears recently playing. It looks similar to its hostile counterpart the vex.
+Armadillo,,An armadillo is a passive mob found in badlands and savannas. It rolls up in response to being hurt or being near undead mobs or players that are sprinting or mounted. It is the only source of armadillo scutes which the armadillo sheds over time as well as when it is brushed.
+Rolled Up Armadillo,,While in this state it takes less damage. It also repels spiders and cave spiders away from it.
+Lucy Axolotl,,An axolotl is a passive aquatic mob found in lush caves that hunts most other aquatic mobs and can assist players with aquatic combat and grant them Regeneration. They can also be carried around in a bucket.
+Wild Axolotl,,An axolotl is a passive aquatic mob found in lush caves that hunts most other aquatic mobs and can assist players with aquatic combat and grant them Regeneration. They can also be carried around in a bucket.
+Gold Axolotl,,An axolotl is a passive aquatic mob found in lush caves that hunts most other aquatic mobs and can assist players with aquatic combat and grant them Regeneration. They can also be carried around in a bucket.
+Cyan Axolotl,,An axolotl is a passive aquatic mob found in lush caves that hunts most other aquatic mobs and can assist players with aquatic combat and grant them Regeneration. They can also be carried around in a bucket.
+Blue Axolotl,,An axolotl is a passive aquatic mob found in lush caves that hunts most other aquatic mobs and can assist players with aquatic combat and grant them Regeneration. They can also be carried around in a bucket.
+Bat,,A bat is a flying ambient passive mob that spawns in dark areas underground.
+Camel,,A camel is a passive mob found in desert villages that can be saddled and ridden by up to two players at once. A camel is tall enough that its riders cannot be reached from the ground by some melee-attacking harmful mobs who do not attack the camel.
+Tabby Cat,,A cat is a passive mob found in villages and swamp huts. They can be tamed and used to repel creepers and phantoms.
+Tuxedo Cat,,A cat is a passive mob found in villages and swamp huts. They can be tamed and used to repel creepers and phantoms.
+Red Cat,,A cat is a passive mob found in villages and swamp huts. They can be tamed and used to repel creepers and phantoms.
+Siamese Cat,,A cat is a passive mob found in villages and swamp huts. They can be tamed and used to repel creepers and phantoms.
+British Shorthair Cat,,A cat is a passive mob found in villages and swamp huts. They can be tamed and used to repel creepers and phantoms.
+Calico Cat,,A cat is a passive mob found in villages and swamp huts. They can be tamed and used to repel creepers and phantoms.
+Persian Cat,,A cat is a passive mob found in villages and swamp huts. They can be tamed and used to repel creepers and phantoms.
+Ragdoll Cat,,A cat is a passive mob found in villages and swamp huts. They can be tamed and used to repel creepers and phantoms.
+White Cat,,A cat is a passive mob found in villages and swamp huts. They can be tamed and used to repel creepers and phantoms.
+Jellie Cat,,A cat is a passive mob found in villages and swamp huts. They can be tamed and used to repel creepers and phantoms.
+Black Cat,,A cat is a passive mob found in villages and swamp huts. They can be tamed and used to repel creepers and phantoms.
+Baby Tabby Cat,,A cat is a passive mob found in villages and swamp huts. They can be tamed and used to repel creepers and phantoms.
+Baby Tuxedo Cat,,A cat is a passive mob found in villages and swamp huts. They can be tamed and used to repel creepers and phantoms.
+Baby Red Cat,,A cat is a passive mob found in villages and swamp huts. They can be tamed and used to repel creepers and phantoms.
+Baby Siamese Cat,,A cat is a passive mob found in villages and swamp huts. They can be tamed and used to repel creepers and phantoms.
+Baby British Shorthair Cat,,A cat is a passive mob found in villages and swamp huts. They can be tamed and used to repel creepers and phantoms.
+Baby Calico Cat,,A cat is a passive mob found in villages and swamp huts. They can be tamed and used to repel creepers and phantoms.
+Baby Persian Cat,,A cat is a passive mob found in villages and swamp huts. They can be tamed and used to repel creepers and phantoms.
+Baby Ragdoll Cat,,A cat is a passive mob found in villages and swamp huts. They can be tamed and used to repel creepers and phantoms.
+Baby White Cat,,A cat is a passive mob found in villages and swamp huts. They can be tamed and used to repel creepers and phantoms.
+Baby Jellie Cat,,A cat is a passive mob found in villages and swamp huts. They can be tamed and used to repel creepers and phantoms.
+Baby Black Cat,,A cat is a passive mob found in villages and swamp huts. They can be tamed and used to repel creepers and phantoms.
+Chicken,,A chicken is a passive mob found in grass biomes and the main source of raw chicken feathers and eggs.
+Baby Chicken,,A chicken is a passive mob found in grass biomes and the main source of raw chicken feathers and eggs.
+Cod,,Cod are common bucketable aquatic passive mobs found in oceans a source of raw cod and occasionally bones or bone meal.
+Cow,,A cow is a passive mob found in most grassy biomes and a source of leather beef and milk.
+Baby Cow,,A cow is a passive mob found in most grassy biomes and a source of leather beef and milk.
+Donkey,,Donkeys are mobs similar to horses that when tamed can be ridden and equipped with chests.
+Baby Donkey,,Donkeys are mobs similar to horses that when tamed can be ridden and equipped with chests.
+Temperate Frog,,A frog is a passive mob found in swamps. Frogs eat small slimes and magma cubes. A frog can produce one of three types of froglights from eating magma cubes depending on the type of frog. The type of frog is dependent on their biome.
+Warm Frog,,A frog is a passive mob found in swamps. Frogs eat small slimes and magma cubes. A frog can produce one of three types of froglights from eating magma cubes depending on the type of frog. The type of frog is dependent on their biome.
+Cold Frog,,A frog is a passive mob found in swamps. Frogs eat small slimes and magma cubes. A frog can produce one of three types of froglights from eating magma cubes depending on the type of frog. The type of frog is dependent on their biome.
+Glow Squid,,The glow squid is an aquatic passive mob found in dark underwater areas typically in ocean depths ravines and underground lakes. The glow squid is a variety of squid. It has an aqua luminescent texture. They were ported to vanilla Minecraft from Minecraft Earth.
+White Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Baby White Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Creamy Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Baby Creamy Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Chestnut Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Baby Chestnut Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Brown Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Baby Brown Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Black Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Baby Black Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Gray Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Baby Gray Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Darkbrown Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Baby Darkbrown Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+White Stockings Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Baby White Stockings Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Creamy Stockings Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Baby Creamy Stockings Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Chestnut Stockings Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Baby Chestnut Stockings Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Brown Stockings Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Baby Brown Stockings Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Black Stockings Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Baby Black Stockings Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Gray Stockings Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Baby Gray Stockings Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Darkbrown Stockings Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Baby Darkbrown Stockings Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+White Whitefield Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Baby White Whitefield Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Creamy Whitefield Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Baby Creamy Whitefield Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Chestnut Whitefield Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Baby Chestnut Whitefield Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Brown Whitefield Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Baby Brown Whitefield Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Black Whitefield Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Baby Black Whitefield Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Gray Whitefield Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Baby Gray Whitefield Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Darkbrown Whitefield Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Baby Darkbrown Whitefield Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+White Whitespot Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Baby White Whitespot Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Creamy Whitespot Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Baby Creamy Whitespot Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Chestnut Whitespot Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Baby Chestnut Whitespot Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Brown Whitespot Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Baby Brown Whitespot Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Black Whitespot Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Baby Black Whitespot Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Gray Whitespot Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Baby Gray Whitespot Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Darkbrown Whitespot Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Baby Darkbrown Whitespot Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+White Blackdot Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Baby White Blackdot Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Chestnut Blackdot Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Baby Chestnut Blackdot Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Creamy Blackdot Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Baby Creamy Blackdot Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Brown Blackdot Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Baby Brown Blackdot Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Black Blackdot Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Baby Black Blackdot Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Gray Blackdot Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Baby Gray Blackdot Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Darkbrown Blackdot Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Baby Darkbrown Blackdot Horse,,Horses are passive mobs that can be ridden when tamed and saddled.
+Red Mooshroom,,Mooshrooms are mushroom-covered variants of cows exclusive to the rare mushroom fields biome.
+Baby Red Mooshroom,,Mooshrooms are mushroom-covered variants of cows exclusive to the rare mushroom fields biome.
+Brown Mooshroom,,Mooshrooms are mushroom-covered variants of cows exclusive to the rare mushroom fields biome.
+Baby Brown Mooshroom,,Mooshrooms are mushroom-covered variants of cows exclusive to the rare mushroom fields biome.
+Mule,,Mules are infertile offspring of horses and donkeys that when tamed can be ridden and equipped with chests.
+Baby Mule,,Mules are infertile offspring of horses and donkeys that when tamed can be ridden and equipped with chests.
+Ocelot,,An ocelot is a passive mob found in jungles.
+Baby Ocelot,,An ocelot is a passive mob found in jungles.
+Red Parrot,,A parrot is a tameable passive mob that spawns in jungle biomes. Parrots imitate sounds of nearby monsters and can perch on the player's shoulders.
+Blue Parrot,,A parrot is a tameable passive mob that spawns in jungle biomes. Parrots imitate sounds of nearby monsters and can perch on the player's shoulders.
+Green Parrot,,A parrot is a tameable passive mob that spawns in jungle biomes. Parrots imitate sounds of nearby monsters and can perch on the player's shoulders.
+Cyan Parrot,,A parrot is a tameable passive mob that spawns in jungle biomes. Parrots imitate sounds of nearby monsters and can perch on the player's shoulders.
+Gray Parrot,,A parrot is a tameable passive mob that spawns in jungle biomes. Parrots imitate sounds of nearby monsters and can perch on the player's shoulders.
+Pig,,A pig is a passive mob found commonly in most grassy biomes. Pigs are a source of porkchops and can be ridden when equipped with a saddle.
+Baby Pig,,A pig is a passive mob found commonly in most grassy biomes. Pigs are a source of porkchops and can be ridden when equipped with a saddle.
+Pufferfish,,Pufferfish are bucketable aquatic mobs found in oceans. Although they never seek out mobs to attack they defensively inflate themselves when approached too closely by players axolotls or non-aquatic mobs dealing damage and inflicting Poison on them.
+Brown Rabbit,,A rabbit is an uncommon passive mob and is a source of rabbit's foot rabbit hide and raw rabbit.
+Albino Rabbit,,A rabbit is an uncommon passive mob and is a source of rabbit's foot rabbit hide and raw rabbit.
+Black Rabbit,,A rabbit is an uncommon passive mob and is a source of rabbit's foot rabbit hide and raw rabbit.
+Black and White Rabbit,,A rabbit is an uncommon passive mob and is a source of rabbit's foot rabbit hide and raw rabbit.
+Gold Rabbit,,A rabbit is an uncommon passive mob and is a source of rabbit's foot rabbit hide and raw rabbit.
+Salt and Pepper Rabbit,,A rabbit is an uncommon passive mob and is a source of rabbit's foot rabbit hide and raw rabbit.
+Killer Bunny Rabbit,,A rabbit is an uncommon passive mob and is a source of rabbit's foot rabbit hide and raw rabbit.
+Toast Rabbit,,A rabbit is an uncommon passive mob and is a source of rabbit's foot rabbit hide and raw rabbit.
+Baby Brown Rabbit,,A rabbit is an uncommon passive mob and is a source of rabbit's foot rabbit hide and raw rabbit.
+Baby Albino Rabbit,,A rabbit is an uncommon passive mob and is a source of rabbit's foot rabbit hide and raw rabbit.
+Baby Black Rabbit,,A rabbit is an uncommon passive mob and is a source of rabbit's foot rabbit hide and raw rabbit.
+Baby Black and White Rabbit,,A rabbit is an uncommon passive mob and is a source of rabbit's foot rabbit hide and raw rabbit.
+Baby Gold Rabbit,,A rabbit is an uncommon passive mob and is a source of rabbit's foot rabbit hide and raw rabbit.
+Baby Salt and Pepper Rabbit,,A rabbit is an uncommon passive mob and is a source of rabbit's foot rabbit hide and raw rabbit.
+Baby Killer Bunny Rabbit,,A rabbit is an uncommon passive mob and is a source of rabbit's foot rabbit hide and raw rabbit.
+Baby Toast Rabbit,,A rabbit is an uncommon passive mob and is a source of rabbit's foot rabbit hide and raw rabbit.
+Salmon,,Salmon are common bucketable aquatic passive mobs found in oceans and rivers that are a source of raw salmon and occasionally bones or bone meal.
+White Sheep,,Sheep are common passive mobs that supply wool and raw mutton and are found in many of the grassy biomes.
+Baby White Sheep,,Sheep are common passive mobs that supply wool and raw mutton and are found in many of the grassy biomes.
+Light Gray Sheep,,Sheep are common passive mobs that supply wool and raw mutton and are found in many of the grassy biomes.
+Baby Light Gray Sheep,,Sheep are common passive mobs that supply wool and raw mutton and are found in many of the grassy biomes.
+Gray Sheep,,Sheep are common passive mobs that supply wool and raw mutton and are found in many of the grassy biomes.
+Baby Gray Sheep,,Sheep are common passive mobs that supply wool and raw mutton and are found in many of the grassy biomes.
+Black Sheep,,Sheep are common passive mobs that supply wool and raw mutton and are found in many of the grassy biomes.
+Baby Black Sheep,,Sheep are common passive mobs that supply wool and raw mutton and are found in many of the grassy biomes.
+Brown Sheep,,Sheep are common passive mobs that supply wool and raw mutton and are found in many of the grassy biomes.
+Baby Brown Sheep,,Sheep are common passive mobs that supply wool and raw mutton and are found in many of the grassy biomes.
+Red Sheep,,Sheep are common passive mobs that supply wool and raw mutton and are found in many of the grassy biomes.
+Baby Red Sheep,,Sheep are common passive mobs that supply wool and raw mutton and are found in many of the grassy biomes.
+Orange Sheep,,Sheep are common passive mobs that supply wool and raw mutton and are found in many of the grassy biomes.
+Baby Orange Sheep,,Sheep are common passive mobs that supply wool and raw mutton and are found in many of the grassy biomes.
+Yellow Sheep,,Sheep are common passive mobs that supply wool and raw mutton and are found in many of the grassy biomes.
+Baby Yellow Sheep,,Sheep are common passive mobs that supply wool and raw mutton and are found in many of the grassy biomes.
+Lime Sheep,,Sheep are common passive mobs that supply wool and raw mutton and are found in many of the grassy biomes.
+Baby Lime Sheep,,Sheep are common passive mobs that supply wool and raw mutton and are found in many of the grassy biomes.
+Green Sheep,,Sheep are common passive mobs that supply wool and raw mutton and are found in many of the grassy biomes.
+Baby Green Sheep,,Sheep are common passive mobs that supply wool and raw mutton and are found in many of the grassy biomes.
+Cyan Sheep,,Sheep are common passive mobs that supply wool and raw mutton and are found in many of the grassy biomes.
+Baby Cyan Sheep,,Sheep are common passive mobs that supply wool and raw mutton and are found in many of the grassy biomes.
+Light Blue Sheep,,Sheep are common passive mobs that supply wool and raw mutton and are found in many of the grassy biomes.
+Baby Light Blue Sheep,,Sheep are common passive mobs that supply wool and raw mutton and are found in many of the grassy biomes.
+Blue Sheep,,Sheep are common passive mobs that supply wool and raw mutton and are found in many of the grassy biomes.
+Baby Blue Sheep,,Sheep are common passive mobs that supply wool and raw mutton and are found in many of the grassy biomes.
+Purple Sheep,,Sheep are common passive mobs that supply wool and raw mutton and are found in many of the grassy biomes.
+Baby Purple Sheep,,Sheep are common passive mobs that supply wool and raw mutton and are found in many of the grassy biomes.
+Magenta Sheep,,Sheep are common passive mobs that supply wool and raw mutton and are found in many of the grassy biomes.
+Baby Magenta Sheep,,Sheep are common passive mobs that supply wool and raw mutton and are found in many of the grassy biomes.
+Pink Sheep,,Sheep are common passive mobs that supply wool and raw mutton and are found in many of the grassy biomes.
+Baby Pink Sheep,,Sheep are common passive mobs that supply wool and raw mutton and are found in many of the grassy biomes.
+Skeleton Horse,,A skeleton horse is an undead variant of the horse. It sometimes spawns when lightning strikes causing four horsemen to appear if the trap horse is approached.
+Baby Skeleton Horse,,A skeleton horse is an undead variant of the horse. It sometimes spawns when lightning strikes causing four horsemen to appear if the trap horse is approached.
+Sniffer,,A sniffer is a passive mob that does not spawn naturally. It spawns only by hatching from sniffer eggs. It sniffs for seeds of various unique decorative plants seeking and digging out the seeds in dirt grass and moss blocks.
+Snifflet,,A sniffer is a passive mob that does not spawn naturally. It spawns only by hatching from sniffer eggs. It sniffs for seeds of various unique decorative plants seeking and digging out the seeds in dirt grass and moss blocks.
+Snow Golem,,A snow golem is a buildable passive mob that throws snowballs at monsters which provokes them into attacking it. Depending on the biome temperature it also either produces a trail of snow or takes heat damage and dies.
+Silly Golem,,A snow golem is a buildable passive mob that throws snowballs at monsters which provokes them into attacking it. Depending on the biome temperature it also either produces a trail of snow or takes heat damage and dies.
+Squid,,A squid is a common aquatic passive mob that spawns in rivers and oceans.
+Strider,,Striders are passive mobs found in the Nether. They can walk on lava and be saddled by the player and they can be controlled via a warped fungus on a stick.
+Shivering Strider,,Striders are passive mobs found in the Nether. They can walk on lava and be saddled by the player and they can be controlled via a warped fungus on a stick.
+Tadpole,,A tadpole is a bucketable aquatic baby passive mob hatched from frogspawn. They mature into one of the three frog variants depending on the biome in which they mature.
+Blue Dory,,Tropical fish are common bucketable aquatic passive mobs found in oceans mangrove swamps and lush caves. There are 2700 naturally occurring variants of tropical fish of different colors and shapes with unique names in Bedrock Edition and 3072 in Java Edition.
+Cichlid,,Tropical fish are common bucketable aquatic passive mobs found in oceans mangrove swamps and lush caves. There are 2700 naturally occurring variants of tropical fish of different colors and shapes with unique names in Bedrock Edition and 3072 in Java Edition.
+Clownfish,,Tropical fish are common bucketable aquatic passive mobs found in oceans mangrove swamps and lush caves. There are 2700 naturally occurring variants of tropical fish of different colors and shapes with unique names in Bedrock Edition and 3072 in Java Edition.
+Cotton Candy Betta,,Tropical fish are common bucketable aquatic passive mobs found in oceans mangrove swamps and lush caves. There are 2700 naturally occurring variants of tropical fish of different colors and shapes with unique names in Bedrock Edition and 3072 in Java Edition.
+Goatfish,,Tropical fish are common bucketable aquatic passive mobs found in oceans mangrove swamps and lush caves. There are 2700 naturally occurring variants of tropical fish of different colors and shapes with unique names in Bedrock Edition and 3072 in Java Edition.
+Parrotfish,,Tropical fish are common bucketable aquatic passive mobs found in oceans mangrove swamps and lush caves. There are 2700 naturally occurring variants of tropical fish of different colors and shapes with unique names in Bedrock Edition and 3072 in Java Edition.
+Queen Angelfish,,Tropical fish are common bucketable aquatic passive mobs found in oceans mangrove swamps and lush caves. There are 2700 naturally occurring variants of tropical fish of different colors and shapes with unique names in Bedrock Edition and 3072 in Java Edition.
+Red Lipped Blenny,,Tropical fish are common bucketable aquatic passive mobs found in oceans mangrove swamps and lush caves. There are 2700 naturally occurring variants of tropical fish of different colors and shapes with unique names in Bedrock Edition and 3072 in Java Edition.
+Tomato Clown,,Tropical fish are common bucketable aquatic passive mobs found in oceans mangrove swamps and lush caves. There are 2700 naturally occurring variants of tropical fish of different colors and shapes with unique names in Bedrock Edition and 3072 in Java Edition.
+Tomato Clownfish,,Tropical fish are common bucketable aquatic passive mobs found in oceans mangrove swamps and lush caves. There are 2700 naturally occurring variants of tropical fish of different colors and shapes with unique names in Bedrock Edition and 3072 in Java Edition.
+Triggerfish,,Tropical fish are common bucketable aquatic passive mobs found in oceans mangrove swamps and lush caves. There are 2700 naturally occurring variants of tropical fish of different colors and shapes with unique names in Bedrock Edition and 3072 in Java Edition.
+White-Gray Dasher,,Tropical fish are common bucketable aquatic passive mobs found in oceans mangrove swamps and lush caves. There are 2700 naturally occurring variants of tropical fish of different colors and shapes with unique names in Bedrock Edition and 3072 in Java Edition.
+White-Silver SunStreak,,Tropical fish are common bucketable aquatic passive mobs found in oceans mangrove swamps and lush caves. There are 2700 naturally occurring variants of tropical fish of different colors and shapes with unique names in Bedrock Edition and 3072 in Java Edition.
+Yellowtail Parrot,,Tropical fish are common bucketable aquatic passive mobs found in oceans mangrove swamps and lush caves. There are 2700 naturally occurring variants of tropical fish of different colors and shapes with unique names in Bedrock Edition and 3072 in Java Edition.
+Anemone,,Tropical fish are common bucketable aquatic passive mobs found in oceans mangrove swamps and lush caves. There are 2700 naturally occurring variants of tropical fish of different colors and shapes with unique names in Bedrock Edition and 3072 in Java Edition.
+Black Tang,,Tropical fish are common bucketable aquatic passive mobs found in oceans mangrove swamps and lush caves. There are 2700 naturally occurring variants of tropical fish of different colors and shapes with unique names in Bedrock Edition and 3072 in Java Edition.
+Blue Tang,,Tropical fish are common bucketable aquatic passive mobs found in oceans mangrove swamps and lush caves. There are 2700 naturally occurring variants of tropical fish of different colors and shapes with unique names in Bedrock Edition and 3072 in Java Edition.
+Dottyback,,Tropical fish are common bucketable aquatic passive mobs found in oceans mangrove swamps and lush caves. There are 2700 naturally occurring variants of tropical fish of different colors and shapes with unique names in Bedrock Edition and 3072 in Java Edition.
+Emperor Red Snapper,,Tropical fish are common bucketable aquatic passive mobs found in oceans mangrove swamps and lush caves. There are 2700 naturally occurring variants of tropical fish of different colors and shapes with unique names in Bedrock Edition and 3072 in Java Edition.
+Moorish Idol,,Tropical fish are common bucketable aquatic passive mobs found in oceans mangrove swamps and lush caves. There are 2700 naturally occurring variants of tropical fish of different colors and shapes with unique names in Bedrock Edition and 3072 in Java Edition.
+Ornate Butterfly,,Tropical fish are common bucketable aquatic passive mobs found in oceans mangrove swamps and lush caves. There are 2700 naturally occurring variants of tropical fish of different colors and shapes with unique names in Bedrock Edition and 3072 in Java Edition.
+Red Cichlid,,Tropical fish are common bucketable aquatic passive mobs found in oceans mangrove swamps and lush caves. There are 2700 naturally occurring variants of tropical fish of different colors and shapes with unique names in Bedrock Edition and 3072 in Java Edition.
+Red Snapper,,Tropical fish are common bucketable aquatic passive mobs found in oceans mangrove swamps and lush caves. There are 2700 naturally occurring variants of tropical fish of different colors and shapes with unique names in Bedrock Edition and 3072 in Java Edition.
+Threadfin,,Tropical fish are common bucketable aquatic passive mobs found in oceans mangrove swamps and lush caves. There are 2700 naturally occurring variants of tropical fish of different colors and shapes with unique names in Bedrock Edition and 3072 in Java Edition.
+Yellow Tang,,Tropical fish are common bucketable aquatic passive mobs found in oceans mangrove swamps and lush caves. There are 2700 naturally occurring variants of tropical fish of different colors and shapes with unique names in Bedrock Edition and 3072 in Java Edition.
+Turtle,,A turtle is a common passive mob found in beach biomes. They are the only source of turtle scutes which drop from baby turtles when they mature into adults.
+Plains Villager,,Villagers are passive mobs that inhabit villages work at their professions breed and interact with each other. Their outfit varies according to their occupation and biome. A player can trade with them using emeralds as currency.
+Desert Villager,,Villagers are passive mobs that inhabit villages work at their professions breed and interact with each other. Their outfit varies according to their occupation and biome. A player can trade with them using emeralds as currency.
+Savanna Villager,,Villagers are passive mobs that inhabit villages work at their professions breed and interact with each other. Their outfit varies according to their occupation and biome. A player can trade with them using emeralds as currency.
+Taiga Villager,,Villagers are passive mobs that inhabit villages work at their professions breed and interact with each other. Their outfit varies according to their occupation and biome. A player can trade with them using emeralds as currency.
+Snowy Villager,,Villagers are passive mobs that inhabit villages work at their professions breed and interact with each other. Their outfit varies according to their occupation and biome. A player can trade with them using emeralds as currency.
+Jungle Villager,,Villagers are passive mobs that inhabit villages work at their professions breed and interact with each other. Their outfit varies according to their occupation and biome. A player can trade with them using emeralds as currency.
+Swamp Villager,,Villagers are passive mobs that inhabit villages work at their professions breed and interact with each other. Their outfit varies according to their occupation and biome. A player can trade with them using emeralds as currency.
+Baby Plains Villager,,Villagers are passive mobs that inhabit villages work at their professions breed and interact with each other. Their outfit varies according to their occupation and biome. A player can trade with them using emeralds as currency.
+Baby Desert Villager,,Villagers are passive mobs that inhabit villages work at their professions breed and interact with each other. Their outfit varies according to their occupation and biome. A player can trade with them using emeralds as currency.
+Baby Savanna Villager,,Villagers are passive mobs that inhabit villages work at their professions breed and interact with each other. Their outfit varies according to their occupation and biome. A player can trade with them using emeralds as currency.
+Baby Taiga Villager,,Villagers are passive mobs that inhabit villages work at their professions breed and interact with each other. Their outfit varies according to their occupation and biome. A player can trade with them using emeralds as currency.
+Baby Snowy Villager,,Villagers are passive mobs that inhabit villages work at their professions breed and interact with each other. Their outfit varies according to their occupation and biome. A player can trade with them using emeralds as currency.
+Baby Jungle Villager,,Villagers are passive mobs that inhabit villages work at their professions breed and interact with each other. Their outfit varies according to their occupation and biome. A player can trade with them using emeralds as currency.
+Baby Swamp Villager,,Villagers are passive mobs that inhabit villages work at their professions breed and interact with each other. Their outfit varies according to their occupation and biome. A player can trade with them using emeralds as currency.
+Wandering Trader,,The wandering trader is a passive mob that randomly spawns near the player. It can trade making natural items more available less dangerous to obtain and in some cases renewable.
+Bee,,Bees are flying neutral mobs that live in bee nests and beehives. Bees pollinate flowers and when they do add honey to their home when they return to it. If provoked by being attacked or breaking or harvesting their hive or nest without the correct precautions bees suicidally attack in a swarm.
+Angry Bee,,Bees are flying neutral mobs that live in bee nests and beehives. Bees pollinate flowers and when they do add honey to their home when they return to it. If provoked by being attacked or breaking or harvesting their hive or nest without the correct precautions bees suicidally attack in a swarm.
+Cave Spider,,Cave spiders are small variant of the spider that inflict Poison with their attacks. They are exclusively spawned by monster spawners found in mineshafts and trial chambers.
+Dolphin,,Dolphins are neutral mobs that live in non-frozen oceans they grant a speed boost to players that swim near them and follow the player while swimming.
+Drowned,,Drowned are neutral mobs and common underwater zombie variants that spawn in oceans rivers and dripstone caves or when zombies drown. They usually attack through melee attacks but may also come armed with tridents that they throw. They are the only renewable source of copper.
+Trident Drowned,,Drowned are neutral mobs and common underwater zombie variants that spawn in oceans rivers and dripstone caves or when zombies drown. They usually attack through melee attacks but may also come armed with tridents that they throw. They are the only renewable source of copper.
+Baby Drowned,,Drowned are neutral mobs and common underwater zombie variants that spawn in oceans rivers and dripstone caves or when zombies drown. They usually attack through melee attacks but may also come armed with tridents that they throw. They are the only renewable source of copper.
+Baby Trident Drowned,,Drowned are neutral mobs and common underwater zombie variants that spawn in oceans rivers and dripstone caves or when zombies drown. They usually attack through melee attacks but may also come armed with tridents that they throw. They are the only renewable source of copper.
+Enderman,,An Enderman is a tall neutral mob found in all three dimensions. It becomes hostile if attacked or looked at directly using its arms to attack. Endermen teleport unpredictably and avoid most projectiles. They are harmed by water but do not take damage or teleport while in cauldrons. They occasionally move certain blocks.
+Fox,,A fox is a neutral mob that spawns in cold and snowy forested biomes. They are able to carry a single item in their mouth but prefer food over other items.
+Snow Fox,,A fox is a neutral mob that spawns in cold and snowy forested biomes. They are able to carry a single item in their mouth but prefer food over other items.
+Baby Fox,,A fox is a neutral mob that spawns in cold and snowy forested biomes. They are able to carry a single item in their mouth but prefer food over other items.
+Baby Snow Fox,,A fox is a neutral mob that spawns in cold and snowy forested biomes. They are able to carry a single item in their mouth but prefer food over other items.
+Goat,,A goat is a neutral mob found in certain mountainous biomes. Goats can jump especially high and ram mobs. They are a source of goat horns and milk.
+Baby Goat,,A goat is a neutral mob found in certain mountainous biomes. Goats can jump especially high and ram mobs. They are a source of goat horns and milk.
+Iron Golem,,An iron golem is a buildable neutral mob that attacks monsters with its arms knocking them into the air. Iron golems created by villagers or spawned in villages patrol their village and may attack players that attack it or have a low popularity or reputation with their village.
+Brown Llama,,A llama is a tamable neutral mob used to transport large shipments of items.
+Creamy Llama,,A llama is a tamable neutral mob used to transport large shipments of items.
+Gray Llama,,A llama is a tamable neutral mob used to transport large shipments of items.
+White Llama,,A llama is a tamable neutral mob used to transport large shipments of items.
+Baby Brown Llama,,A llama is a tamable neutral mob used to transport large shipments of items.
+Baby Creamy Llama,,A llama is a tamable neutral mob used to transport large shipments of items.
+Baby Gray Llama,,A llama is a tamable neutral mob used to transport large shipments of items.
+Baby White Llama,,A llama is a tamable neutral mob used to transport large shipments of items.
+Panda,,A panda is a rare neutral mob that resides in jungles. Certain aspects of a panda's behavior and appearance vary depending on its personality.
+Lazy Panda,,A panda is a rare neutral mob that resides in jungles. Certain aspects of a panda's behavior and appearance vary depending on its personality.
+Aggressive Panda,,A panda is a rare neutral mob that resides in jungles. Certain aspects of a panda's behavior and appearance vary depending on its personality.
+Worried Panda,,A panda is a rare neutral mob that resides in jungles. Certain aspects of a panda's behavior and appearance vary depending on its personality.
+Playful Panda,,A panda is a rare neutral mob that resides in jungles. Certain aspects of a panda's behavior and appearance vary depending on its personality.
+Weak Panda,,A panda is a rare neutral mob that resides in jungles. Certain aspects of a panda's behavior and appearance vary depending on its personality.
+Brown Panda,,A panda is a rare neutral mob that resides in jungles. Certain aspects of a panda's behavior and appearance vary depending on its personality.
+Baby Panda,,A panda is a rare neutral mob that resides in jungles. Certain aspects of a panda's behavior and appearance vary depending on its personality.
+Baby Lazy Panda,,A panda is a rare neutral mob that resides in jungles. Certain aspects of a panda's behavior and appearance vary depending on its personality.
+Baby Aggressive Panda,,A panda is a rare neutral mob that resides in jungles. Certain aspects of a panda's behavior and appearance vary depending on its personality.
+Baby Worried Panda,,A panda is a rare neutral mob that resides in jungles. Certain aspects of a panda's behavior and appearance vary depending on its personality.
+Baby Playful Panda,,A panda is a rare neutral mob that resides in jungles. Certain aspects of a panda's behavior and appearance vary depending on its personality.
+Baby Weak Panda,,A panda is a rare neutral mob that resides in jungles. Certain aspects of a panda's behavior and appearance vary depending on its personality.
+Baby Brown Panda,,A panda is a rare neutral mob that resides in jungles. Certain aspects of a panda's behavior and appearance vary depending on its personality.
+Piglin,,A piglin is a neutral mob found in the Nether. It is hostile to players unless they wear at least one piece of golden armor. It can be given gold ingots to barter for various items. It wields either a golden sword or a crossbow and uses either melee or ranged attacks respectively.
+Crossbow Piglin,,A piglin is a neutral mob found in the Nether. It is hostile to players unless they wear at least one piece of golden armor. It can be given gold ingots to barter for various items. It wields either a golden sword or a crossbow and uses either melee or ranged attacks respectively.
+Baby Piglin,,Baby piglins do not grow up never hold weapons or attack and take gold without giving anything in return.
+Polar Bear,,Polar bears are neutral mobs that live in icy biomes.
+Baby Polar Bear,,Polar bears are neutral mobs that live in icy biomes.
+Spider,,A spider is a neutral mob that attacks the player in dark areas. Spiders attack by biting the target and they can also climb walls and lunge at them.
+Brown Trader Llama,,A trader llama is a llama variant that spawns with wandering traders.
+Creamy Trader Llama,,A trader llama is a llama variant that spawns with wandering traders.
+Baby Brown Trader Llama,,A trader llama is a llama variant that spawns with wandering traders.
+Baby Creamy Trader Llama,,A trader llama is a llama variant that spawns with wandering traders.
+Wolf,,A wolf is a neutral mob that can be tamed using bones. Tamed wolves defend their owners against attackers and can assist them in combat.
+Tamed Wolf,,A wolf is a neutral mob that can be tamed using bones. Tamed wolves defend their owners against attackers and can assist them in combat.
+Angry Wolf,,A wolf is a neutral mob that can be tamed using bones. Tamed wolves defend their owners against attackers and can assist them in combat.
+Baby Wolf,,A wolf is a neutral mob that can be tamed using bones. Tamed wolves defend their owners against attackers and can assist them in combat.
+Baby Tamed Wolf,,A wolf is a neutral mob that can be tamed using bones. Tamed wolves defend their owners against attackers and can assist them in combat.
+Baby Angry Wolf,,A wolf is a neutral mob that can be tamed using bones. Tamed wolves defend their owners against attackers and can assist them in combat.
+Ashen Wolf,,A wolf is a neutral mob that can be tamed using bones. Tamed wolves defend their owners against attackers and can assist them in combat.
+Black Wolf,,A wolf is a neutral mob that can be tamed using bones. Tamed wolves defend their owners against attackers and can assist them in combat.
+Chestnut Wolf,,A wolf is a neutral mob that can be tamed using bones. Tamed wolves defend their owners against attackers and can assist them in combat.
+Rusty Wolf,,A wolf is a neutral mob that can be tamed using bones. Tamed wolves defend their owners against attackers and can assist them in combat.
+Snowy Wolf,,A wolf is a neutral mob that can be tamed using bones. Tamed wolves defend their owners against attackers and can assist them in combat.
+Spotted Wolf,,A wolf is a neutral mob that can be tamed using bones. Tamed wolves defend their owners against attackers and can assist them in combat.
+Striped Wolf,,A wolf is a neutral mob that can be tamed using bones. Tamed wolves defend their owners against attackers and can assist them in combat.
+Woods Wolf,,A wolf is a neutral mob that can be tamed using bones. Tamed wolves defend their owners against attackers and can assist them in combat.
+Zombified Piglin,,Zombified piglins or colloquially zombie pigmen are neutral undead variants of piglins that inhabit the Nether. Zombified piglins normally ignore players but if one is attacked it and all zombified piglins in the vicinity become enraged and attack the aggressor with their golden swords.
+Baby Zombified Piglin,,Zombified piglins or colloquially zombie pigmen are neutral undead variants of piglins that inhabit the Nether. Zombified piglins normally ignore players but if one is attacked it and all zombified piglins in the vicinity become enraged and attack the aggressor with their golden swords.
+Blaze,,A blaze is a hostile mob found in nether fortresses and the only source of blaze rods. A blaze attacks by floating upward and shooting fireballs at its target in volleys of three at a time. It can also attack its target in melee range with its spinning rods.
+Bogged,,A bogged is a skeleton variant covered in moss and mushrooms that spawns in swamps and mangrove swamps. Bogged behave similarly to skeletons but attack at a slower rate and shoot tipped arrows of Poison.
+Breeze,,A breeze is a hostile mob spawned by certain trial spawners found in trial chambers. It moves via jumping large distances when attacking attacks by firing wind charges and deflects all projectiles except wind charges. Breezes are the only source of breeze rods which are dropped upon death.
+Creeper,,A creeper is a common hostile mob that quietly approaches players and then explodes which can destroy blocks and deal massive amounts of damage. Creepers are a major source of gunpowder as well as the only way to obtain most music discs.
+Charged Creeper,,When struck by lightning a creeper becomes a charged creeper which amplifies its explosion power and enables mob heads to be obtained from piglins zombies skeletons and other creepers it kills.
+Elder Guardian,,An elder guardian is a stronger and larger variant of the guardian and the largest aquatic mob. It attacks the same way as a normal guardian and it also applies Mining Fatigue to players in a large radius around itself. They are only found in ocean monuments; three of them generate in each one.
+Endermite,,Endermites are small hostile mobs similar to silverfish that sometimes spawn when a player throws an ender pearl. They attack by dealing melee damage. Endermen are hostile toward endermites.
+Evoker,,An evoker is a spell-casting illager that can be found in woodland mansions and as part of raids. They are the only source of totems of undying. Evokers use two spells to attack: one that summons armor-piercing fangs and one that summons vexes which is the only time vexes can spawn.
+Ghast,,Ghasts are large floating ghost-like hostile mobs found in the Nether. Ghasts wander aimlessly and shoot explosive fireballs at players which can be hit back to kill them instantly upon direct impact.
+Guardian,,Guardians are pufferfish-like hostile mobs that spawn in and around ocean monuments. They attack with a slow-charging laser beam and inflict retaliatory damage when damaged by a melee attack.
+Hoglin,,A hoglin is a breedable hostile mob found in the Nether and a source of porkchops and leather. Hoglins are repelled by warped fungi that is placed in the world as well as active nether portals and respawn anchors. It attacks by thrusting its tusks upward which can also launch its target a short distance into the air.
+Baby Hoglin,,Baby hoglins behave similarly but have a much weaker attack (the weakest attack in the game) with normal knockback and flee when hit.
+Husk,,A husk is a variant of zombie that spawns in deserts. They function similarly to zombies except they do not burn in sunlight and they inflict Hunger with their unarmed attacks.
+Baby Husk,,A husk is a variant of zombie that spawns in deserts. They function similarly to zombies except they do not burn in sunlight and they inflict Hunger with their unarmed attacks.
+Magma Cube,,A magma cube is a hostile mob found in the Nether. A magma cube behaves similarly to a slime but is fireproof jumps higher and less often and deals more damage.
+Phantom,,Phantoms are flying undead hostile mobs that spawn in the night sky when the player has not laid in a bed or died for three or more in-game days. They attack by diving at the player from the sky to bite them.
+Piglin Brute,,A piglin brute is a hostile stronger variant of piglins that wields a golden axe and appears in all types of bastion remnants. Unlike piglins they do not barter retreat or get diverted by gold instead always charging at the player on sight.
+Pillager,,A pillager is an illager armed with a crossbow found in wandering patrols in pillager outposts or as a participant in raids. It attacks by firing arrows at the player.
+Ravager,,A ravager is a large hostile mob that only spawns alongside illagers in raids. It attacks players adult villagers wandering traders and iron golems by charging biting and roaring at them. A ravager can also get stunned when blocked by a shield.
+Shulker,,A shulker is a box-shaped hostile mob found in end cities. It hides in its shell to protect itself and blend in with its surroundings and attacks by shooting homing bullets that inflict Levitation. It is the only source of shulker shells which are used to craft shulker boxes.
+Silverfish,,Silverfish are small hostile mobs that infest stone and deepslate blocks in mountains strongholds igloo basements and woodland mansions. They crawl at their targets to bite them and attacking them incites other nearby silverfish to emerge from their blocks and attack the aggressor.
+Skeleton,,A skeleton is an undead hostile mob that performs ranged attacks with a bow.
+Slime,,Slimes are bouncy cube-shaped hostile mobs that spawn deep underground in particular chunks or on the surface in swamp biomes. They attack by jumping at their targets. They come in three sizes and larger slimes split into smaller ones on death.
+Stray,,A stray is a skeleton variant that spawns in a few snow-covered biomes. They behave similarly to skeletons except they fire tipped arrows of Slowness from their bows.
+Vex,,The vex is a small flying hostile mob that wields an iron sword and is summoned by evokers. It attacks by lunging at its target with its sword and is capable of phasing through walls. It looks similar to its passive counterpart the allay.
+Vindicator,,A vindicator is an illager equipped with an iron axe. Vindicators appear in woodland mansions and participate in raids. It sprints toward its targets to attack them with its axe.
+Warden,,The Warden is a powerful mob summoned by sculk shriekers in the deep dark biome. It attacks with a strong arm swing or an unblockable sonic boom. Blind so it finds its way around by detecting players through vibrations smell and touch. It can be avoided by sneaking distractions or hiding behind wool.
+Witch,,The witch is a hostile mob that uses potions in combat using various splash potions for offense and drinkable potions for defense.
+Wither Skeleton,,Wither skeletons are tall black variants of skeletons equipped with stone swords that inflict the poison-like Wither effect. They are found exclusively in nether fortresses and are the only source of wither skeleton skulls as well as the only renewable source of coal.
+Zoglin,,A zoglin is an undead hostile mob created when a hoglin enters the Overworld or End. It never retreats or flees and attacks players and almost all non-zoglin mobs indiscriminately using the same tusk attack as its non-zombified counterpart.
+Baby Zoglin,,A zoglin is an undead hostile mob created when a hoglin enters the Overworld or End. It never retreats or flees and attacks players and almost all non-zoglin mobs indiscriminately using the same tusk attack as its non-zombified counterpart.
+Zombie,,Zombies are common undead hostile mobs that deal melee damage and attack in groups.
+Baby Zombie,,Zombies are common undead hostile mobs that deal melee damage and attack in groups.
+Plains Zombie Villager,,A zombie villager is a variant of the zombie that can be cured into a normal villager using a golden apple while it is under the effect of Weakness.
+Desert Zombie Villager,,A zombie villager is a variant of the zombie that can be cured into a normal villager using a golden apple while it is under the effect of Weakness.
+Savanna Zombie Villager,,A zombie villager is a variant of the zombie that can be cured into a normal villager using a golden apple while it is under the effect of Weakness.
+Taiga Zombie Villager,,A zombie villager is a variant of the zombie that can be cured into a normal villager using a golden apple while it is under the effect of Weakness.
+Snowy Zombie Villager,,A zombie villager is a variant of the zombie that can be cured into a normal villager using a golden apple while it is under the effect of Weakness.
+Jungle Zombie Villager,,A zombie villager is a variant of the zombie that can be cured into a normal villager using a golden apple while it is under the effect of Weakness.
+Swamp Zombie Villager,,A zombie villager is a variant of the zombie that can be cured into a normal villager using a golden apple while it is under the effect of Weakness.
+Baby Plains Zombie Villager,,A zombie villager is a variant of the zombie that can be cured into a normal villager using a golden apple while it is under the effect of Weakness.
+Baby Desert Zombie Villager,,A zombie villager is a variant of the zombie that can be cured into a normal villager using a golden apple while it is under the effect of Weakness.
+Baby Savanna Zombie Villager,,A zombie villager is a variant of the zombie that can be cured into a normal villager using a golden apple while it is under the effect of Weakness.
+Baby Taiga Zombie Villager,,A zombie villager is a variant of the zombie that can be cured into a normal villager using a golden apple while it is under the effect of Weakness.
+Baby Snowy Zombie Villager,,A zombie villager is a variant of the zombie that can be cured into a normal villager using a golden apple while it is under the effect of Weakness.
+Baby Jungle Zombie Villager,,A zombie villager is a variant of the zombie that can be cured into a normal villager using a golden apple while it is under the effect of Weakness.
+Baby Swamp Zombie Villager,,A zombie villager is a variant of the zombie that can be cured into a normal villager using a golden apple while it is under the effect of Weakness.
+Ender Dragon,,The Ender Dragon is a giant flying boss mob found in the End. It’s the largest naturally spawning mob. Defeating it activates the exit portal to the Overworld and spawns gateways to the outer end islands. Its attacks include charging and hurling acidic breath at players.
+Wither,,The wither is a player-constructed and highly destructive undead Boss-mob that can hover in mid-air and fire barrages of explosive wither skulls at almost any living thing. It is the only source of nether stars which are used to craft beacons.
+Creaking,,A creaking is an upcoming hostile mob that is spawned by creaking hearts at night or during thunderstorms. It moves only when no players are looking at it. It cannot be damaged and can be killed only by destroying its respective creaking heart when naturally spawned.
+Agent,,The Agent is a interactive passive mob that is exclusive to Minecraft Education and Bedrock Edition.
+Elder Guardian Ghost,,An elder guardian ghost is an invisible hostile mob used to render the particle of an elder guardian in the player's interface in Bedrock Edition.
+Giant,,Giants are unused over-sized mobs in Java Edition that look like zombies.
+Illusioner,,The illusioner is an unused illager armed with a bow. It attacks using illusions and can also fire arrows.
+NPC,,Non player characters (abbreviated as NPCs) are interactive passive mobs that have models similar to villagers.
+Farmer,,Villagers are passive mobs that live in villages work breed and interact with each other. Their clothing reflects their profession. Players can trade with them using emeralds. Villagers were overhauled in the Village & Pillage update changing both their appearance and functionality.
+Librarian,,Villagers are passive mobs that live in villages work breed and interact with each other. Their clothing reflects their profession. Players can trade with them using emeralds. Villagers were overhauled in the Village & Pillage update changing both their appearance and functionality.
+Priest,,Villagers are passive mobs that live in villages work breed and interact with each other. Their clothing reflects their profession. Players can trade with them using emeralds. Villagers were overhauled in the Village & Pillage update changing both their appearance and functionality.
+Butcher,,Villagers are passive mobs that live in villages work breed and interact with each other. Their clothing reflects their profession. Players can trade with them using emeralds. Villagers were overhauled in the Village & Pillage update changing both their appearance and functionality.
+Blacksmith,,Villagers are passive mobs that live in villages work breed and interact with each other. Their clothing reflects their profession. Players can trade with them using emeralds. Villagers were overhauled in the Village & Pillage update changing both their appearance and functionality.
+Nitwit,,Villagers are passive mobs that live in villages work breed and interact with each other. Their clothing reflects their profession. Players can trade with them using emeralds. Villagers were overhauled in the Village & Pillage update changing both their appearance and functionality.
+Baby Farmer,,Villagers are passive mobs that live in villages work breed and interact with each other. Their clothing reflects their profession. Players can trade with them using emeralds. Villagers were overhauled in the Village & Pillage update changing both their appearance and functionality.
+Baby Librarian,,Villagers are passive mobs that live in villages work breed and interact with each other. Their clothing reflects their profession. Players can trade with them using emeralds. Villagers were overhauled in the Village & Pillage update changing both their appearance and functionality.
+Baby Priest,,Villagers are passive mobs that live in villages work breed and interact with each other. Their clothing reflects their profession. Players can trade with them using emeralds. Villagers were overhauled in the Village & Pillage update changing both their appearance and functionality.
+Baby Butcher,,Villagers are passive mobs that live in villages work breed and interact with each other. Their clothing reflects their profession. Players can trade with them using emeralds. Villagers were overhauled in the Village & Pillage update changing both their appearance and functionality.
+Baby Blacksmith,,Villagers are passive mobs that live in villages work breed and interact with each other. Their clothing reflects their profession. Players can trade with them using emeralds. Villagers were overhauled in the Village & Pillage update changing both their appearance and functionality.
+Baby Nitwit,,Villagers are passive mobs that live in villages work breed and interact with each other. Their clothing reflects their profession. Players can trade with them using emeralds. Villagers were overhauled in the Village & Pillage update changing both their appearance and functionality.
+Zombie Horse,,A zombie horse is an unused variant of the regular horse. Zombie horses appear to be the horse equivalent of zombies. Like zombies zombie horses are green-skinned and their eyes are completely black.
+Baby Zombie Horse,,A zombie horse is an unused variant of the regular horse. Zombie horses appear to be the horse equivalent of zombies. Like zombies zombie horses are green-skinned and their eyes are completely black.
+Mob [Player Model],,An entity referred to simply as a mob was a passive mob in very early Minecraft (Java Edition). This entity came with several different models across early Minecraft versions. They are an in game instance of the base mob class.
+Mob [Rana],,An entity referred to simply as a mob was a passive mob in very early Minecraft (Java Edition). This entity came with several different models across early Minecraft versions. They are an in game instance of the base mob class.
+Mob [Steve],,An entity referred to simply as a mob was a passive mob in very early Minecraft (Java Edition). This entity came with several different models across early Minecraft versions. They are an in game instance of the base mob class.
+Mob [Black Steve],,An entity referred to simply as a mob was a passive mob in very early Minecraft (Java Edition). This entity came with several different models across early Minecraft versions. They are an in game instance of the base mob class.
+Mob [Beast Boy],,An entity referred to simply as a mob was a passive mob in very early Minecraft (Java Edition). This entity came with several different models across early Minecraft versions. They are an in game instance of the base mob class.
+Diamond Chicken,,Diamond chickens were a rare joke variant of chicken present in the April Fool's Java Edition 2.0. They lay lapis lazuli and diamonds instead of eggs.
+Baby Diamond Chicken,,Diamond chickens were a rare joke variant of chicken present in the April Fool's Java Edition 2.0. They lay lapis lazuli and diamonds instead of eggs.
+Horse (Cow),,These "horses" and "ponies" can sometimes be obtained when cows or pigs are spawned with spawn eggs. They follow a player holding an apple or sugar but they breed like normal horses.
+Pony (Pig),,These "horses" and "ponies" can sometimes be obtained when cows or pigs are spawned with spawn eggs. They follow a player holding an apple or sugar but they breed like normal horses.
+Love Golem,,The love golem was a buildable passive mob present in the April Fool's Love and Hugs Update. It was a manifestation of the villager's love and peaceful nature.
+Mars Wolf,,Naming a tamed wolf 'Mars' will give it a unique texture.
+Moon Cow,,A moon cow is a variant of a cow that spawns on the Moon. They function similar to the cow except they walk backward and wear glass.
+Baby Moon Cow,,A moon cow is a variant of a cow that spawns on the Moon. They function similar to the cow except they walk backward and wear glass.
+Nerd Creeper,,The nerd creeper is a hostile creeper-based mob present in the April Fool's Java Edition 3D Shareware v1.34 update.
+Charged Nerd Creeper,,The nerd creeper is a hostile creeper-based mob present in the April Fool's Java Edition 3D Shareware v1.34 update.
+One Headed Pink Wither,,The pink wither or friendly wither was a recurring April Fools' mob present in both Java Edition 2.0 and 15w14a.
+Two Headed Pink Wither,,The pink wither or friendly wither was a recurring April Fools' mob present in both Java Edition 2.0 and 15w14a.
+Three Headed Pink Wither,,The pink wither or friendly wither was a recurring April Fools' mob present in both Java Edition 2.0 and 15w14a.
+Ray Tracing,,Ray Tracing is a humanoid mob exclusive to the April Fools' snapshot 23w13a_or_b that spawns within the Overworld.
+Redstone Bug,,A redstone bug was a joke variant of silverfish present in the April Fool's Java Edition 2.0 update.
+Smiling Creeper,,The smiling creeper was a passive mob present in the April Fool's Love and Hugs Update and is a variant of the creeper.
+Batato,,A batato is a modified version of the bat with a poisonous potato replacing the body and head of the mob. It has the same AI as the regular bat.
+Mega Spud,,The mega spud is a boss mob found in colosseums in 24w14potato.
+Poisonous Potato Zombie,,A poisonous potato zombie is a joke variant of the zombie introduced in 24w14potato.
+Plaguewhale Slab,,A plaguewhale slab also known as simply plaguewhale is a modified version of the elder guardian with a purple body and a green eye. It has the same width and length but half the height as the elder guardian.
+Toxfin Slab,,A toxifin slab also known as simply toxifin is a modified version of the guardian with an orange body and green spikes available in 24w14potato. It has the same width and length but half the height as a guardian.
+Barnacle,,The Barnacle also called "The Monster of the Ocean Depths" is a Squid-like ocean creature that sucks players down with its tentacle. The mob spawns in the Deep Ocean biome and has a large mouth that it uses to propel itself through the water.
+The Great Hunger,,"""The Great Hunger""" is a lizard-like creature that sinks into the ground camouflages itself and consumes mobs and items with its huge mouth. It has a """great appetite for enchanting powers"""
+The Wildfire,,The Wildfire called "The Hovering Inferno" during the vote is a type of blaze. Its body parts look like shields and are used to defend itself from attack. This mob spawns with groups of blazes randomly and attacks the player in the Nether with its dangerous shock wave attack.
+Meerkat,,An unimplemented Mob that was supposed to join into the deserts.
+Ostrich,,An unimplemented Mob that was supposed to join into the savanna.
+Vulture,,An unimplemented Mob that was supposed to join the badlands.
+Moobloom,,The moobloom was a mob planned to be added into Minecraft featured in the Mob Vote during Minecraft Live 2020 alongside the iceologer and glow squid. It would have been passive and had some form of interaction with bees.
+Iceologer,,The iceologer was a planned mob featured in the Mob Vote during Minecraft Live 2020 alongside the moobloom and glow squid. It would have been hostile spawned in mountain peaks and attacked players with large chunks of ice.
+Glare,,The glare was a proposed mob featured in the Mob Vote during Minecraft Live 2021 alongside the allay and copper golem. It would have flown to areas dark enough for hostile mobs to spawn in and then would have become grumpy to alert the player of this. It may have helped light up these areas as well.
+Copper Golem,,The copper golem was a proposed mob featured in the Mob Vote during Minecraft Live 2021 alongside the allay and glare. It was a golem that would have been created with copper. It would have been attracted to copper buttons which would also come with the golem had it won.
+Firefly,,Fireflies were originally going to be eaten by frogs to produce froglights but this was scrapped due to the fact that some species of fireflies are poisonous to some species of frogs in real life.
+Rascal,,The Rascal was a proposed mob in the Minecraft Live 2022 Mob Vote alongside the Sniffer and Tuff Golem. Found underground below Y=0 the Rascal would give hints to help players find it and reward them with an item after being found three times.
+Tuff Golem,,The Tuff Golem was a statue that could hold and display items. When awoken it would move around with the item or pick up a new one if it wasn’t holding anything. It would return to its original spot before turning back into a statue and was one block tall allowing players to stack them.
+Crab,,The Crab was a proposed mob in the Minecraft Live 2023 Mob Vote alongside the Armadillo and Penguin. It would spawn in mangrove swamps and could lose a large arm dropping a crab claw for placing blocks from a distance. Crabs could be bred with kelp and occasionally waved at players and other crabs.
+Penguin,,The Penguin was a proposed mob in the Minecraft Live 2023 Mob Vote alongside the Crab and Armadillo and was the first to be voted out. It would have spawned in stony shores living both in water and on land. Clumsy on land Penguins were excellent swimmers moving as fast as dolphins and gathered in groups.
