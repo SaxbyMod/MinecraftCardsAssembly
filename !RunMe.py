@@ -107,7 +107,7 @@ os.makedirs("Output", exist_ok=True)
 for card_name, data in card_data.items():
     try:
         card = draw_card_data(data, card_image.copy(), NamePos, DescPos, CostPos, name_font, description_font, ImagePos)
-        output_path = f"Output/{card_name}.png"
+        output_path = f"Output/{card_name.replace(' ','_')}.png"
         card.save(output_path, format="PNG")
         print(f"{card_name} completed successfully.")
     except Exception as e:
